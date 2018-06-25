@@ -2,6 +2,7 @@
   "name": "react-app-gh-pages",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "https://victor-homyakov.github.io/react-app-gh-pages",
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
